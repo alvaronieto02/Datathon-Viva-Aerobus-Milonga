@@ -1,4 +1,4 @@
-# Prediction Model for the Occupancy of Flights and Sale of Products on Board
+# Prediction Model for the Occupancy of Flights and Sale of Products on Board for Viva Aerobus
 
 May 05, 2024
 
