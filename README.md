@@ -10,10 +10,10 @@ This projects implements the training of a 4-layer and a 5-layer neural network 
 
 This project was developed in Python using Pandas, TensorFlow and Scikit-learn.
 
-
-
-
-
-##
-
-
+## Files
+<ul>
+  <li>First item</li>
+  <li>Second item</li>
+  <li>Third item</li>
+  <li>Fourth item</li>
+</ul>
