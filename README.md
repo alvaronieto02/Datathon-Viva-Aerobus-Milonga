@@ -6,7 +6,7 @@ Authors: Dylan Esaú Carreón Martínez, Missael Sepúlveda Ríos, Álvaro Jesú
 
 ## Description
 
-Based on the datasets `Filghts TEC_Valid.csv` and Sales TEC_Valid.csv
+Based on the datasets `Filghts TEC_Valid.csv` and `Sales TEC_Valid.csv`.
 
 
 ##
