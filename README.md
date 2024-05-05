@@ -10,7 +10,9 @@ This projects implements the training of a 4-layer and a 5-layer neural network 
 
 This project was developed in Python using Pandas, TensorFlow and Scikit-learn.
 
-[`Filghts TEC_Valid.csv`](https://link-url-here.org)
+[`Filghts TEC_Valid.csv`](https://drive.google.com/file/d/1h4GvP8it_wwJsvtJekbBTY8qKGGOUV_s/view)
+
+[`Sales TEC_Valid.csv`](https://drive.google.com/file/d/1Kf0UIkgDdlrkdKBU1IAUpJrYx-0KdK78/view)
 
 ##
 
