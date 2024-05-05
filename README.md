@@ -14,5 +14,5 @@ This project was developed in Python using Pandas, TensorFlow and Scikit-learn.
 
 - `Datathon Model.ipynb` contains the models of supervised learning for the forecasting of the occupancy of flights and the prediction of sales on board.
 - `Passengers Prediction Model Sketch.ipynb` contains a test learning model for the forecasting of the occupancy of flights.
-- `test_vuelos.ipynb` contanis the exploration, processing and cleansing of the `Sales TEC_Valid.csv` dataset.
-- `test_vuelos.ipynb` contanis the exploration, processing and cleansing of the `Filghts TEC_Valid.csv` dataset.
+- `test_vuelos.ipynb` contains the exploration, processing and cleansing of the `Sales TEC_Valid.csv` dataset.
+- `test_vuelos.ipynb` contains the exploration, processing and cleansing of the `Filghts TEC_Valid.csv` dataset.
