@@ -2,11 +2,11 @@
 
 May 05, 2024
 
-Authors: Dylan Esaú Carreón Martínez, Missael Sepúlveda Ríos, Álvaro Jesús Nieto Gutiérrez & Jorge Ríos Corral \
+Authors: Dylan Esaú Carreón Martínez, Missael Sepúlveda Ríos, Álvaro Jesús Nieto Gutiérrez & Jorge Ríos Corral
 
 ## Description
 
-Based on the datasets `Filghts TEC_Valid.csv` and `Sales TEC_Valid.csv`.
+This projects implements the training of a 4-layer and a 5-layer neural network with 2023 data from the datasets `Filghts TEC_Valid.csv` and `Sales TEC_Valid.csv`, respectively. The 4-layer NN predicts the occupancy of flights to estimate the number of passengers for flights scheduled for 2024 and part of 2025. The 5-layer NN predicts the number of products sold by category for flights schedule for 2024 and part of 2025.
 
 
 ##
