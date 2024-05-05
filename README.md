@@ -11,8 +11,11 @@ This projects implements two models of supervised learning through the training 
 This project was developed in Python using Pandas, TensorFlow and Scikit-learn.
 
 ## Files
+
+`hola`
+
 <ul>
-  <li> `Datathon Model.ipynb` contains "hola" the models of supervised learning for the forecasting of the occupancy of flights and the prediction of sales on board. </li>
+  <li> `Datathon Model.ipynb` contains the models of supervised learning for the forecasting of the occupancy of flights and the prediction of sales on board. </li>
   <li> `Passengers Prediction Model Sketch.ipynb` contains a test learning model for the forecasting of the occupancy of flights. </li>
   <li> `test_vuelos.ipynb` contanis the exploration, processing and cleansing of the `Sales TEC_Valid.csv` dataset. </li>
   <li> `test_vuelos.ipynb` contanis the exploration, processing and cleansing of the `Filghts TEC_Valid.csv` dataset. </li>
