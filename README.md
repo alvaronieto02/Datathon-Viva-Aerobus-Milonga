@@ -14,7 +14,7 @@ This project was developed in Python using Pandas, TensorFlow and Scikit-learn.
 
 `hola`
 
-- hola
+- `hola`
 - hola
 - hola
 
