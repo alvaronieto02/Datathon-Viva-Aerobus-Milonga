@@ -1,12 +1,11 @@
-# Project Title
+# Prediction Model for the Occupancy of Flights and Sale of Products on Board
 
-Authors: Dylan Esaú Carreón Martínez
-Missael Sepúlveda Ríos
-Álvar Jesús Nieto Gutiérrez
-Jorge Ríos Corral
+Authors: Dylan Esaú Carreón Martínez, Missael Sepúlveda Ríos, Álvaro Jesús Nieto Gutiérrez & Jorge Ríos Corral
+May 05, 2024
+
+This project contains the 
 
 
-## Description
 
 ## Usage
 
